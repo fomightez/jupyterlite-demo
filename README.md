@@ -5,13 +5,13 @@ I prefer the Xeus-Python JupyterLite demo as you can pre-install packages, see [
 
 # My deployment of the JupyterLite Demo with Pyodide kernel (Probably want Xeus-Python kernel these days though!!)
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://fomightez.github.io/jupyterlite-demo)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://fomightez.github.io/jupyterlite-demo**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
