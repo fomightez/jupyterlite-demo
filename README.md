@@ -3,7 +3,7 @@ Access this demo running with JupyterLite at:
 NOTE THOUGH!!!:  
 I prefer the Xeus-Python JupyterLite demo as you can pre-install packages, see [xeus-python + JupyterLite demo](https://github.com/jupyterlite/xeus-python-demo). I have a repo for that [here](https://github.com/fomightez/jupyterlite-xeus-demo) and you can run from [fomightez.github.io/jupyterlite-xeus-demo](https://fomightez.github.io/jupyterlite-xeus-demo).
 
-# JupyterLite Demo with Pyodide kernel (Probably want Xeus-Python kernel these days though!!)
+# My deployment of the JupyterLite Demo with Pyodide kernel (Probably want Xeus-Python kernel these days though!!)
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
